@@ -25,6 +25,10 @@ summary(iris)
 You can also embed plots, for example:
 
 ![cam](https://media.giphy.com/media/qYr8p3Dzbet5S/giphy.gif)
+```{r}
+#hello Alice
+
+```
 
 ```{r}
 ```
