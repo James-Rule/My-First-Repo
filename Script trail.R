@@ -15,3 +15,6 @@ Even_more_animals<- c(10,11,12)
 
 #"commit" you are telling Git the "saved" changes you've made in
 #R are changes you would like Git to recognize#
+
+#"push"(represented by the green arrow facing upward) sends 
+#everything to Github#
